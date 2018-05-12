@@ -1,0 +1,27 @@
+_repo: The-Redemption-of-David-Corson_14730
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14730-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goss, Charles Frederic
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '5654'
+    url: http://www.gutenberg.org/2009/agents/5654
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Society of Friends -- Fiction'
+- !lcc 'PS'
+title: The Redemption of David Corson
+url: http://www.gutenberg.org/ebooks/14730
